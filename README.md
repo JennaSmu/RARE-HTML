@@ -3,4 +3,4 @@
 fhff
 [Something else](something-else.html)
 duhdduh
-[Homepage](Admin/Rare-obsidian-vault.html)
+[Homepage](Admin/Rare Obsidian Vault.html)
