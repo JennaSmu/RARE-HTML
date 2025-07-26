@@ -6,3 +6,4 @@ fhff
 duhdduh
 [Homepage](Admin/Rare Obsidian Vault.html)
 [2550 EASO](rare-birds/2550-easo.html)
+[2595 BDOW](rare-birds/2595-bdow.html)
