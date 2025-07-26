@@ -5,4 +5,4 @@ fhff
 [2021 Ages](2021-ages.html)
 duhdduh
 [Homepage](Admin/Rare Obsidian Vault.html)
-[2550 EASO](rare-birds/2550-EASO.html)
+[2550 EASO](rare-birds/2550-easo.html)
