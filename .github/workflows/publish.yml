@@ -26,6 +26,9 @@ jobs:
           find . -mindepth 1 -maxdepth 1 ! -name '.github' -exec cp -r {} site/ \;
           # Overwrite index.html with homepage
           cp admin/homepage.html site/index.html
+      
+      - name: List site directory contents
+        run: ls -lR site
 
       - name: Upload artifact for GitHub Pages
         uses: actions/upload-pages-artifact@v3
