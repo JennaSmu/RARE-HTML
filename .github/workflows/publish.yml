@@ -15,7 +15,7 @@ jobs:
       - name: Set up homepage
         run: |
           mkdir -p site
-          cp Admin/Homepage site/index.html
+          cp Admin/homepage.html site/index.html
 
       - name: Upload artifact for GitHub Pages
         uses: actions/upload-pages-artifact@v3
